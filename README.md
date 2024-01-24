@@ -26,8 +26,5 @@ Project Game Execution Details:
     Repeat Usage:
     • Repeat these required steps as desired to play again with a new opponent and boost your ELO ratings! Enjoy!
     
-    Execution Flow:
-    ![Execution Flow Diagram](/Users/vaishnavichellappa/Desktop/Screenshot 2024-01-23 at 11.55.52 PM.png)
-
-
-     For a more detailed explanation of the execution of our project, kindly refer to the video demo.
+    Execution Flow:    
+    • For a more detailed explanation of the execution of our project, kindly refer to the video demo.
