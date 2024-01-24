@@ -27,4 +27,6 @@ Project Game Execution Details:
     • Repeat these required steps as desired to play again with a new opponent and boost your ELO ratings! Enjoy!
     
     Execution Flow:
+    ![image](https://github.com/VaishnaviChellappa/Chesspresso/assets/108603805/52832448-800b-46b3-a6a3-2c675e10ae23)
+
      For a more detailed explanation of the execution of our project, kindly refer to the video demo.
